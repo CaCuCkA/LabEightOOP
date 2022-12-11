@@ -17,9 +17,3 @@ Inject several record in DB. Check whether the endpoint will return all the reco
 - [x] Cover decorators with tests.
 - [x] Set up GitHub Actions for this project that would run your tests.
 - [x] Send a link to your GitHub here.
-
-## License
-
-The [MIT](https://choosealicense.com/licenses/mit/) License (MIT)
-
-Copyright © 2022. Andrii Yaroshevych
