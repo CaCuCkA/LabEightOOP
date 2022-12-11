@@ -1,5 +1,9 @@
 # Flower Store Lab Eight
 
+## Description 
+
+In this lab we discussed how to connect database with `Docker`, added tables and design Decorator pattern
+
 ## Task
 
 - [x] Discuss where implementation of API Layer, Service Layer, Data Access Layer should exist.
